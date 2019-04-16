@@ -1,0 +1,7 @@
+1. What have you done personally since your last progress report?
+
+AS my role was from the beginning of the project I have been working on the Data bases part then link it to our admin page, and login page.
+
+2. Describe any significant progress made by the team as a whole in this time period.
+
+As a team we have been testing the pages that we have been working on, and finishing up the assignment so we can start working on the report and edit the presentation.
