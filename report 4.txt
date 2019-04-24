@@ -1,0 +1,7 @@
+1. What have you done personally since your last progress report?
+
+I have been working on the Database section and done with it. In addition, we have linked it to the whole project.
+
+2. Describe any significant progress made by the team as a whole in this time period.
+
+We have finished the whole project incuding the admin module and user page. Moreover, we have started working on the presentation slides and the report.
